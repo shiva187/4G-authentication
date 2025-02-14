@@ -1,10 +1,10 @@
-# 5G Core Network UE Authentication Simulation
+# 4G Core Network UE Authentication Simulation
 
-This project simulates UE (User Equipment) authentication in a "5G Core Network" by using databases for "UE and HSS (Home Subscriber Server)". It includes multiple scripts for database creation, data storage, and verification of UEs based on HSS records.
+This project simulates UE (User Equipment) authentication in a "4G Core Network" by using databases for "UE and HSS (Home Subscriber Server)". It includes multiple scripts for database creation, data storage, and verification of UEs based on HSS records.
 
  📌 Project Overview
 
-This project implements the **Authentication and Key Agreement (AKA) process in a 5G Core Network. The main functionalities include:
+This project implements the **Authentication and Key Agreement (AKA) process in a 4G Core Network. The main functionalities include:
 
 - Managing UE and HSS databases
 - Storing and retrieving subscriber authentication data
